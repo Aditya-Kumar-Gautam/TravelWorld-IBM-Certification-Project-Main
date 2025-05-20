@@ -14,4 +14,4 @@
 ### Frontend Folder
 - Goto frontend folder in terminal
 - Run npm install
-- After install all the dependencies run npm start
+- After installing all the dependencies run npm start
