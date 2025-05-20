@@ -8,6 +8,7 @@
 ### Backend Folder
 - Goto backend folder in terminal
 - Run npm install
+- To connect to database install MongoDB Compass and create a connection using the URI in .env file 
 - After install all the dependencies run node index.js
 
 ### Frontend Folder
